@@ -14,6 +14,6 @@
 
 >- Arrays : [arrays6](arrays6)
 
- **Games**
+ **GAMES/ASSIGNMENT**
 > - RockpaperSciccors : [RockPaperScissor.class](RockPaperScissor.class)
 
